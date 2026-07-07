@@ -1,0 +1,6 @@
+{
+  "name": "Blogging Platform",
+  "description": "A modern, full-stack blogging platform with user authentication, custom content management, search, and dynamic comment interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
